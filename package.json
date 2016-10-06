@@ -1,6 +1,6 @@
 {
   "name": "adsr-envelope-graph",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "React component to draw an envelope graph given the adsr parameters",
   "main": "lib/index.js",
   "scripts": {
