@@ -14,14 +14,14 @@ import EnvelopeGraph from 'adsr-envelope-graph';
 
 ## Props
 ### Required
-a: Attack (s)
-d: Decay (s)
-s: Sustain (0-1)
-r: Release (s)
+- a: Attack (s)
+- d: Decay (s)
+- s: Sustain (0-1)
+- r: Release (s)
 
 ### Optional
-style: Style of the root element
-lineStyle: Style of the envelope line
-timeLineStyle: Style of the time markers
-phaseLineStyle: Style of the phase separator lines
+- style: Style of the root element
+- lineStyle: Style of the envelope line
+- timeLineStyle: Style of the time markers
+- phaseLineStyle: Style of the phase separator lines
 
