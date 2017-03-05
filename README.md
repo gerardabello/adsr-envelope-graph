@@ -3,6 +3,8 @@ This React component renders a graph of an ADSR (Attack, Decay, Sustain and Rele
 
 Mainly useful for synths using the Web Audio API.
 
+![screenshot](screenshot.png)
+
 ##Example usage
 ```
 import EnvelopeGraph from 'adsr-envelope-graph';
