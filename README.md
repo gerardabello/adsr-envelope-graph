@@ -16,10 +16,10 @@ import EnvelopeGraph from 'adsr-envelope-graph';
 
 ## Props
 ### Required
-- a: Attack (s)
-- d: Decay (s)
+- a: Attack (seconds)
+- d: Decay (seconds)
 - s: Sustain (0-1)
-- r: Release (s)
+- r: Release (seconds)
 
 ### Optional
 - style: Style of the root element
