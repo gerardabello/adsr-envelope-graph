@@ -1,4 +1,4 @@
-#React ADSR envelope graph
+# React ADSR envelope graph
 This React component renders a graph of an ADSR (Attack, Decay, Sustain and Release) envelope.
 
 Mainly useful for synths using the Web Audio API.
